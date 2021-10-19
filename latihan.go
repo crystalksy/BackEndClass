@@ -7,7 +7,7 @@ func main() {
 	var isLogin bool = false
 	fmt.Println(isLogin)
 
-	var prime int = 7
+	var prime int = 17
 	fmt.Println(prime)
 
 	var decimal float64 = 45.6
